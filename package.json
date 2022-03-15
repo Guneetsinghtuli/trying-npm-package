@@ -1,0 +1,22 @@
+{
+  "name": "trying-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guneetsinghtuli/trying-npm-package.git"
+  },
+  "author": "guneetsinghtuli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guneetsinghtuli/trying-npm-package/issues"
+  },
+  "homepage": "https://github.com/Guneetsinghtuli/trying-npm-package#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
